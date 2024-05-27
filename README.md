@@ -1,9 +1,7 @@
-# Octave on mybinder.org
+# MATLAB Programmming Test
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Janenarongkl/Octave.git/HEAD?labpath=Exam.ipynb)
 
-An example of using Octave on [mybinder.org](https://mybinder.org/).
+An example of using Octave on [Google Colab](https://colab.research.google.com/).
 
-This shows you how to make Matlab code that works with [Octave](https://www.gnu.org/software/octave/) run on [mybinder.org](https://mybinder.org/).
-
-The [example notebook](index.ipynb) is taken from the [octave_kernel](https://github.com/Calysto/octave_kernel) repository.
+This shows you how to make Matlab code that works with [Octave](https://www.gnu.org/software/octave/) run on [Google Colab](https://colab.research.google.com/).
